@@ -27,3 +27,13 @@ Mini vMac is licensed under the terms of GNU GPLv2.
 All ROM files needed for Mini vMac is under Apple's copyright, and you must either dump it yourself or search online for it.
 
 If you want to contribute, you can create a pull request, or point something wrong by creating an issue. I do'nt accept emulation problems, as I don't have knoweldge about the C language. I could do is help you with compiling.
+
+## Screenshots
+
+![Mini vMac with half 1080p](Custom.png "Mini vMac with half 1080p")
+
+![Mini vMac (Mac II) with half 1080p](macii.png "Mini vMac (Mac II) with half 1080p")
+
+![Mini vMac (Mac II) with System 6](macii.png "Mini vMac (Mac II)")
+
+![Twiggy Mini vMac with an early version of Mac Paint](twiggy.png "Twiggy Mini vMac")
