@@ -24,7 +24,7 @@ You can compile Mini vMac by following the [guide here](https://www.gryphel.com/
 
 Mini vMac is licensed under the terms of GNU GPLv2.
 
-All ROM files needed for Mini vMac is under Apple's copyright, and you must either dump it yourself or search online for it.
+All ROM files needed for Mini vMac is under Apple's copyright, and you must either dump it yourself or search online for it. (Except for the Twiggy 4.3T ROM.)
 
 If you want to contribute, you can create a pull request, or point something wrong by creating an issue. I do'nt accept emulation problems, as I don't have knoweldge about the C language. I could do is help you with compiling.
 
